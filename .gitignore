@@ -7,3 +7,5 @@ db.mysql
 /static
 .DS_Store
 .idea/
+myvenv
+
