@@ -6,3 +6,5 @@ db.sqlite3
 db.mysql
 /static
 .DS_Store
+myvenv
+
